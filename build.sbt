@@ -17,6 +17,6 @@ scalacOptions := Seq(
 libraryDependencies ++= Seq(
   "com.jcraft" % "jsch" % "0.1.54",
 
-  "org.scalatest" %% "scalatest" % "2.2.6" % Test,
-  "org.mockito" % "mockito-core" % "1.10.19" % Test
+  "org.scalatest" %% "scalatest" % "3.0.3" % Test,
+  "org.mockito" % "mockito-core" % "2.7.22" % Test
 )

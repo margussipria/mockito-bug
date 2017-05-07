@@ -1,5 +1,5 @@
 import com.jcraft.jsch.ChannelSftp
-import org.scalatest.mock.MockitoSugar
+import org.scalatest.mockito.MockitoSugar
 import org.scalatest.{Matchers, WordSpec}
 
 class ExampleSpec extends WordSpec with MockitoSugar with Matchers {
